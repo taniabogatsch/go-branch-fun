@@ -12,3 +12,12 @@ PASS
 ok      github.com/taniabogatsch/go-branch-fun  0.457s
 
 ```
+
+On `darwin-arm64`, default building is possible like so:
+```
+go test
+hello world
+v1.1.3
+PASS
+ok      github.com/taniabogatsch/go-branch-fun  0.439s
+```
